@@ -1,4 +1,4 @@
-		Code: 701	|  Name: Subarna Express	|  Destination: Dhaka to Chittagong	|  Time: 9:30am 	|  Off-Day: Monday	|  Price: 750 Tk
+		Code: 701	|  Name: Subarna Exp	|  Destination: Dhaka to Chittagong	|  Time: 9:30am 	|  Off-Day: Monday	|  Price: 750 Tk
                 
                 Code: 711	|  Name: Subarna Express	|  Destination: Chittagong To Dhaka	|  Time: 12:00pm	|  Off-Day: Monday	|  Price: 750 Tk
 
