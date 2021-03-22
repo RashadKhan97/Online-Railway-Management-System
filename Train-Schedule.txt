@@ -5,4 +5,3 @@ Train Code: 705	|	Train Name: Kopotash Express	|	Train destination: Dhaka to Raj
 ÿTrain Code: 701	|	Train Name: Tiata Express	|	Train Destination: Dhaka to Khulna	|	Status: Arrival	|	Time:30 Mins
 Train Code: 705	|	Train Name: Rupsa Express	|	Train Destination: Dhaka to Khulna	|	Status: Arraval	|	Time:20 Mins
 Train Code: 705	|	Train Name: sitara Express	|	Train Destination: Dhaka to Khulna	|	Status: Dept	|	Time:05 Mins
-Train Code: 705
