@@ -24,4 +24,4 @@
 
                 Code: 720	|  Name: Upaban Express	        |  Destination: Dhaka To Sylhet	        |  Time: 9:30pm	        |  Off-Day: No Off Day	|  Price: 770 Tk 
 
-                Code: 735	|  Name: Upaban Express	        |  Destination: Sylhet To Dhaka	        |  Time: 10:30am 	|  Off-Day: No Off Day	|  Price: 770 Tk 
+                Code: 734	|  Name: Upaban Express	        |  Destination: Sylhet To Dhaka	        |  Time: 10:30am 	|  Off-Day: No Off Day	|  Price: 770 Tk 
